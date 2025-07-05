@@ -48,7 +48,7 @@ Smart Todo List is an intelligent task management application that leverages AI 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/just-trying-123/ai-todo-list
 cd ai-todo-list
 ```
 
